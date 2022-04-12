@@ -1,0 +1,239 @@
+128 Bit - 1 thread:
+1 segment
+Execution Time: 329.0ms
+Execution Time: 292.0ms
+2 segments
+Execution Time: 493.0ms
+Execution Time: 593.0ms
+3 segments
+Execution Time: 780.0ms
+Execution Time: 800.0ms
+4 segments
+Execution Time: 911.0ms
+Execution Time: 822.0ms
+8 segments
+Execution Time: 1534.0ms
+Execution Time: 1489.0ms
+17 segments
+Execution Time: 3936.0ms
+Execution Time: 3432.0ms
+
+192 Bit - 1 thread:
+1 segment
+Execution Time: 286.0ms
+Execution Time: 281.0ms
+2 segments
+Execution Time: 705.0ms
+Execution Time: 612.0ms
+3 segments
+Execution Time: 936.0ms
+Execution Time: 938.0ms
+4 segments
+Execution Time: 1060.0ms
+Execution Time: 1205.0ms
+8 segments
+Execution Time: 1788.0ms
+Execution Time: 1824.0ms
+17 segments
+Execution Time: 4897.0ms
+Execution Time: 4586.0ms
+
+256 Bit - 1 thread:
+1 segment
+Execution Time: 461.0ms
+Execution Time: 452.0ms
+2 segments
+Execution Time: 648.0ms
+Execution Time: 778.0ms
+3 segments
+Execution Time: 1306.0ms
+Execution Time: 1076.0ms
+4 segments
+Execution Time: 1865.0ms
+Execution Time: 1601.0ms
+8 segments
+Execution Time: 3156.0ms
+Execution Time: 3246.0ms
+17 segments
+Execution Time: 6188.0ms
+Execution Time: 5654.0ms
+
+128 Bit - 2 threads:
+1 segment
+Execution Time: 393.0ms
+Execution Time: 352.0ms
+2 segments
+Execution Time: 658.0ms
+Execution Time: 645.0ms
+3 segments
+Execution Time: 971.0ms
+Execution Time: 728.0ms
+4 segments
+Execution Time: 1231.0ms
+Execution Time: 1221.0ms
+8 segments
+Execution Time: 2540.0ms
+Execution Time: 1776.0ms
+17 segments
+Execution Time: 4723.0ms
+Execution Time: 3947.0ms
+
+192 Bit - 2 threads:
+1 segment
+Execution Time: 443.0ms
+Execution Time: 449.0ms
+2 segments
+Execution Time: 775.0ms
+Execution Time: 628.0ms
+3 segments
+Execution Time: 995.0ms
+Execution Time: 808.0ms
+4 segments
+Execution Time: 1210.0ms
+Execution Time: 1268.0ms
+8 segments
+Execution Time: 2145.0ms
+Execution Time: 2085.0ms
+17 segments
+Execution Time: 4306.0ms
+Execution Time: 5338.0ms
+
+256 Bit - 2 threads:
+1 segment
+Execution Time: 344.0ms
+Execution Time: 393.0ms
+2 segments
+Execution Time: 693.0ms
+Execution Time: 752.0ms
+3 segments
+Execution Time: 1323.0ms
+Execution Time: 907.0ms
+4 segments
+Execution Time: 1173.0ms
+Execution Time: 1064.0ms
+8 segments
+Execution Time: 2164.0ms
+Execution Time: 2482.0ms
+17 segments
+Execution Time: 6110.0ms
+Execution Time: 4591.0ms
+
+128 Bit - 4 threads:
+1 segment
+Execution Time: 285.0ms
+Execution Time: 314.0ms
+2 segments
+Execution Time: 564.0ms
+Execution Time: 571.0ms
+3 segments
+Execution Time: 849.0ms
+Execution Time: 585.0ms
+4 segments
+Execution Time: 759.0ms
+Execution Time: 1223.0ms
+8 segments
+Execution Time: 2284.0ms
+Execution Time: 1963.0ms
+17 segments
+Execution Time: 3439.0ms
+Execution Time: 3566.0ms
+
+192 Bit - 4 threads:
+1 segment
+Execution Time: 379.0ms
+Execution Time: 305.0ms
+2 segments
+Execution Time: 616.0ms
+Execution Time: 515.0ms
+3 segments
+Execution Time: 744.0ms
+Execution Time: 703.0ms
+4 segments
+Execution Time: 1198.0ms
+Execution Time: 951.0ms
+8 segments
+Execution Time: 2063.0ms
+Execution Time: 2049.0ms
+17 segments
+Execution Time: 3892.0ms
+Execution Time: 4676.0ms
+
+256 Bit - 4 threads:
+1 segment
+Execution Time: 353.0ms
+Execution Time: 441.0ms
+2 segments
+Execution Time: 797.0ms
+Execution Time: 995.0ms
+3 segments
+Execution Time: 950.0ms
+Execution Time: 911.0ms
+4 segments
+Execution Time: 1339.0ms
+Execution Time: 1105.0ms
+8 segments
+Execution Time: 2725.0ms
+Execution Time: 2032.0ms
+17 segments
+Execution Time: 4865.0ms
+Execution Time: 5002.0ms
+
+128 Bit - 8 threads:
+1 segment
+Execution Time: 343.0ms
+Execution Time: 249.0ms
+2 segments
+Execution Time: 500.0ms
+Execution Time: 414.0ms
+3 segments
+Execution Time: 637.0ms
+Execution Time: 641.0ms
+4 segments
+Execution Time: 1104.0ms
+Execution Time: 921.0ms
+8 segments
+Execution Time: 1888.0ms
+Execution Time: 1882.0ms
+17 segments
+Execution Time: 4297.0ms
+Execution Time: 3375.0ms
+
+192 Bit - 8 threads:
+1 segment
+Execution Time: 387.0ms
+Execution Time: 353.0ms
+2 segments
+Execution Time: 740.0ms
+Execution Time: 516.0ms
+3 segments
+Execution Time: 735.0ms
+Execution Time: 724.0ms
+4 segments
+Execution Time: 1281.0ms
+Execution Time: 1463.0ms
+8 segments
+Execution Time: 2349.0ms
+Execution Time: 1951.0ms
+17 segments
+Execution Time: 4255.0ms
+Execution Time: 3944.0ms
+
+256 Bit - 8 threads:
+1 segment
+Execution Time: 361.0ms
+Execution Time: 367.0ms
+2 segments
+Execution Time: 630.0ms
+Execution Time: 744.0ms
+3 segments
+Execution Time: 1111.0ms
+Execution Time: 975.0ms
+4 segments
+Execution Time: 1179.0ms
+Execution Time: 1082.0ms
+8 segments
+Execution Time: 2202.0ms
+Execution Time: 2249.0ms
+17 segments
+Execution Time: 4701.0ms
+Execution Time: 4858.0ms

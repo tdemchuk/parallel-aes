@@ -1,0 +1,53 @@
+128 Bit
+Segments: 1
+Execution Time: 783ms
+Segments: 1
+Execution Time: 692ms
+Segments: 2
+Execution Time: 856ms
+Segments: 2
+Execution Time: 747ms
+Segments: 3
+Execution Time: 1012ms
+Segments: 3
+Execution Time: 899ms
+Segments: 4
+Execution Time: 1154ms
+Segments: 4
+Execution Time: 1167ms
+
+192 Bit
+Segments: 1
+Execution Time: 737ms
+Segments: 1
+Execution Time: 634ms
+Segments: 2
+Execution Time: 929ms
+Segments: 2
+Execution Time: 812ms
+Segments: 3
+Execution Time: 1111ms
+Segments: 3
+Execution Time: 986ms
+Segments: 4
+Execution Time: 1265ms
+Segments: 4
+Execution Time: 1169ms
+
+256 Bit
+Segments: 1
+Execution Time: 826ms
+Segments: 1
+Execution Time: 666ms
+Segments: 2
+Execution Time: 1000ms
+Segments: 2
+Execution Time: 892ms
+Segments: 3
+Execution Time: 1196ms
+Segments: 3
+Execution Time: 1151ms
+Segments: 4
+Execution Time: 1528ms
+Segments: 4
+Execution Time: 1307ms

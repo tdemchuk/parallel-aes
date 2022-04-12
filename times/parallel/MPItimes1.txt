@@ -1,0 +1,180 @@
+
+128 Bit - 2 procs:
+1 segment
+Execution Time: 248ms
+Execution Time: 253ms
+2 segments
+Execution Time: 1300ms
+Execution Time: 291ms
+3 segments
+Execution Time: 1266ms
+Execution Time: 590ms
+4 segments
+Execution Time: 1532ms
+Execution Time: 665ms
+8 segments
+Execution Time: 1325ms
+Execution Time: 1225ms
+17 segments
+Execution Time: 3431ms
+Execution Time: 2521ms
+
+192 Bit - 2 procs:
+1 segment
+Execution Time: 541ms
+Execution Time: 222ms
+2 segments
+Execution Time: 557ms
+Execution Time: 401ms
+3 segments
+Execution Time: 1560ms
+Execution Time: 666ms
+4 segments
+Execution Time: 803ms
+Execution Time: 746ms
+8 segments
+Execution Time: 3624ms
+Execution Time: 1480ms
+17 segments
+Execution Time: 3956ms
+Execution Time: 3130ms
+
+256 Bit - 2 procs:
+1 segment
+Execution Time: 295ms
+Execution Time: 157ms
+2 segments
+Execution Time: 841ms
+Execution Time: 350ms
+3 segments
+Execution Time: 1930ms
+Execution Time: 1115ms
+4 segments
+Execution Time: 967ms
+Execution Time: 1380ms
+8 segments
+Execution Time: 1747ms
+Execution Time: 1725ms
+17 segments
+Execution Time: 3802ms
+Execution Time: 3688ms
+
+128 Bit - 3 procs:
+1 segment
+Execution Time: 449ms
+Execution Time: 217ms
+2 segments
+Execution Time: 2381ms
+Execution Time: 245ms
+3 segments
+Execution Time: 406ms
+Execution Time: 386ms
+4 segments
+Execution Time: 427ms
+Execution Time: 367ms
+8 segments
+Execution Time: 844ms
+Execution Time: 637ms
+17 segments
+Execution Time: 6802ms
+Execution Time: 1343ms
+
+192 Bit - 3 procs:
+1 segment
+Execution Time: 253ms
+Execution Time: 153ms
+2 segments
+Execution Time: 868ms
+Execution Time: 252ms
+3 segments
+Execution Time: 2983ms
+Execution Time: 376ms
+4 segments
+Execution Time: 597ms
+Execution Time: 390ms
+8 segments
+Execution Time: 750ms
+Execution Time: 666ms
+17 segments
+Execution Time: 1753ms
+Execution Time: 2052ms
+
+256 Bit - 3 procs:
+1 segment
+Execution Time: 737ms
+Execution Time: 317ms
+2 segments
+Execution Time: 798ms
+Execution Time: 364ms
+3 segments
+Execution Time: 1362ms
+Execution Time: 749ms
+4 segments
+Execution Time: 625ms
+Execution Time: 513ms
+8 segments
+Execution Time: 981ms
+Execution Time: 919ms
+17 segments
+Execution Time: 2051ms
+Execution Time: 1913ms
+
+128 Bit - 4 procs:
+1 segment
+Execution Time: 260ms
+Execution Time: 235ms
+2 segments
+Execution Time: 539ms
+Execution Time: 258ms
+3 segments
+Execution Time: 666ms
+Execution Time: 316ms
+4 segments
+Execution Time: 1108ms
+Execution Time: 715ms
+8 segments
+Execution Time: 541ms
+Execution Time: 1057ms
+17 segments
+Execution Time: 1134ms
+Execution Time: 1327ms
+
+192 Bit - 4 procs:
+1 segment
+Execution Time: 451ms
+Execution Time: 229ms
+2 segments
+Execution Time: 278ms
+Execution Time: 374ms
+3 segments
+Execution Time: 1204ms
+Execution Time: 316ms
+4 segments
+Execution Time: 1045ms
+Execution Time: 504ms
+8 segments
+Execution Time: 1162ms
+Execution Time: 1306ms
+17 segments
+Execution Time: 2168ms
+Execution Time: 1992ms
+
+256 Bit - 4 procs:
+1 segment
+Execution Time: 396ms
+Execution Time: 326ms
+2 segments
+Execution Time: 883ms
+Execution Time: 472ms
+3 segments
+Execution Time: 325ms
+Execution Time: 830ms
+4 segments
+Execution Time: 1079ms
+Execution Time: 646ms
+8 segments
+Execution Time: 951ms
+Execution Time: 845ms
+17 segments
+Execution Time: 4000ms
+Execution Time: 1438ms
